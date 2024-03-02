@@ -2,7 +2,7 @@
     {
         "id":1,
         "name":"Bananas",
-        "price":10.99,
+        "price":500,
         "imgUrl":"/imgs/bananas.jpeg"
         
     },
@@ -10,21 +10,21 @@
     {
         "id":2,
         "name":"Car",
-        "price":10.99,
+        "price":5000000,
         "imgUrl":"/imgs/car.jpeg"
     },
 
     {
         "id":3,
         "name":"Computer",
-        "price":10.99,
+        "price":250000,
         "imgUrl":"/imgs/computer.jpeg"
     },
 
     {
         "id":4,
         "name":"dress",
-        "price":10.99,
+        "price":15000,
         "imgUrl":"/imgs/dress.jpeg"
     }
 ]
