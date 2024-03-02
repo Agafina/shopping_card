@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "name":"Bananas",
+        "price":10.99,
+        "imgUrl":"/imgs/bananas.jpeg"
+        
+    },
+
+    {
+        "id":2,
+        "name":"Car",
+        "price":10.99,
+        "imgUrl":"/imgs/car.jpeg"
+    },
+
+    {
+        "id":3,
+        "name":"Computer",
+        "price":10.99,
+        "imgUrl":"/imgs/computer.jpeg"
+    },
+
+    {
+        "id":4,
+        "name":"dress",
+        "price":10.99,
+        "imgUrl":"/imgs/dress.jpeg"
+    }
+]
